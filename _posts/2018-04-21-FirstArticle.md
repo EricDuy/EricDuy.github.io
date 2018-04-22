@@ -2,7 +2,7 @@
 layout:     post
 title:      万事开头难
 subtitle:   我的第一篇文章
-date:       2018-21-04
+date:       2018-04-21
 author:     Eric
 header-img: img/post-bg-st.jpg
 catalog: true
