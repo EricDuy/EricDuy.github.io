@@ -7,7 +7,7 @@ author:     Eric
 header-img: img/post-bg-mysql.jpg
 catalog: true
 tags:
-    - 爬虫
+    - Python
 ---
 
 ## 环境搭建
